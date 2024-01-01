@@ -4,7 +4,7 @@
 # compile CXX with /opt/gcc-12/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/xiling/Desktop/dsacpp/include
+CXX_INCLUDES = -I/home/xiling/Desktop/thu-dsacpp/include
 
 CXX_FLAGS = 
 

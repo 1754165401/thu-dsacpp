@@ -23,9 +23,9 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 set(CMAKE_AR "/usr/bin/ar")
-set(CMAKE_CXX_COMPILER_AR "/opt/clang+llvm-14.0.0-x86_64-linux-gnu-ubuntu-18.04/bin/llvm-ar")
+set(CMAKE_CXX_COMPILER_AR "/opt/gcc-12/bin/gcc-ar")
 set(CMAKE_RANLIB "/usr/bin/ranlib")
-set(CMAKE_CXX_COMPILER_RANLIB "/opt/clang+llvm-14.0.0-x86_64-linux-gnu-ubuntu-18.04/bin/llvm-ranlib")
+set(CMAKE_CXX_COMPILER_RANLIB "/opt/gcc-12/bin/gcc-ranlib")
 set(CMAKE_LINKER "/usr/bin/ld")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)

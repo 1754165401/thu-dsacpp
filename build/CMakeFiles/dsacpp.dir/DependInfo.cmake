@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/xiling/Desktop/dsacpp/src/AVL.cc" "CMakeFiles/dsacpp.dir/src/AVL.cc.o" "gcc" "CMakeFiles/dsacpp.dir/src/AVL.cc.o.d"
+  "/home/xiling/Desktop/thu-dsacpp/src/AVL.cc" "CMakeFiles/dsacpp.dir/src/AVL.cc.o" "gcc" "CMakeFiles/dsacpp.dir/src/AVL.cc.o.d"
   )
 
 # Targets to which this target links.

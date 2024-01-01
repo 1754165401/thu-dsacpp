@@ -2,7 +2,7 @@ set(CMAKE_CXX_COMPILER g++)
 
 cmake_minimum_required(VERSION 3.24.2)
 
-project(dsacpp)
+project(thu-dsacpp)
 
 include_directories("${PROJECT_SOURCE_DIR}/include")
 

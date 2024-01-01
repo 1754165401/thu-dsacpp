@@ -1,4 +1,4 @@
-# Install script for directory: /home/xiling/Desktop/dsacpp
+# Install script for directory: /home/xiling/Desktop/thu-dsacpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/xiling/Desktop/dsacpp/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/xiling/Desktop/thu-dsacpp/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

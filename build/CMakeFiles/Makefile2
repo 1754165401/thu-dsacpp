@@ -54,10 +54,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/xiling/Desktop/dsacpp
+CMAKE_SOURCE_DIR = /home/xiling/Desktop/thu-dsacpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/xiling/Desktop/dsacpp/build
+CMAKE_BINARY_DIR = /home/xiling/Desktop/thu-dsacpp/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/dsacpp.dir/clean
 CMakeFiles/dsacpp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dsacpp.dir/build.make CMakeFiles/dsacpp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dsacpp.dir/build.make CMakeFiles/dsacpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/xiling/Desktop/dsacpp/build/CMakeFiles --progress-num=1,2 "Built target dsacpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/xiling/Desktop/thu-dsacpp/build/CMakeFiles --progress-num=1,2 "Built target dsacpp"
 .PHONY : CMakeFiles/dsacpp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dsacpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiling/Desktop/dsacpp/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiling/Desktop/thu-dsacpp/build/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dsacpp.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiling/Desktop/dsacpp/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/xiling/Desktop/thu-dsacpp/build/CMakeFiles 0
 .PHONY : CMakeFiles/dsacpp.dir/rule
 
 # Convenience name for target.
